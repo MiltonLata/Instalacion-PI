@@ -10,6 +10,7 @@ Pasos para iniciar la raspberry pi 3:
   6.- cambiamos la contrasena (balanza)
   7.- conectamos a la red wifi
   8.- Activar el Vnc (para una conexion con la Pc)
+  9.- Entrar al comando: sudo raspi-config (cambiar las opciones: expand file system)
 Pasos para configurar la pantalla tactil del pasberry pi (https://www.altaruru.com/raspberry-pi-como-instalar-una-pantalla-lcd-de-3-5/)
   1.- sudo apt-get update
   2.- sudo apt-get upgrade
